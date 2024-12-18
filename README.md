@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**dfuhrerinf23/dfuhrerinf23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dfuhrerinf23/dfuhrerinf23** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
